@@ -1,0 +1,27 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+img
+{
+    width: 40%;
+    height: 40%;
+    border:solid 2px black;
+}
+body
+{
+    background-image: url(background.jpg);
+}
